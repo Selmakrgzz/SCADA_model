@@ -8,3 +8,5 @@ venv/
 .DS_Store
 .vscode/
 .idea/
+scripts/job.slurm
+logs
